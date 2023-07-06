@@ -1,16 +1,17 @@
-# mysample
+# Fab Icon Example
 
-A new Flutter project.
+A new Flutter project with a Fab Icon Example for Maestro.
 
-## Getting Started
+## Setup
+This is a sample project that has a Fab Icon with Semantic Label:
+[Code is here](https://github.com/igorsmotto/flutter-fab-icon-example/blob/main/lib/main.dart#L33)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/igorsmotto/flutter-fab-icon-example/assets/48068670/5c8f8512-8278-4ea5-a633-7e77872d634f" height="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Maestro Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+After running with `flutter run` and `maestro studio`
+
+![image](https://github.com/igorsmotto/flutter-fab-icon-example/assets/48068670/7b644f6b-0990-44c7-a4af-bf5c03aca7c7)
